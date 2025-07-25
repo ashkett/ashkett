@@ -20,7 +20,7 @@
   📧 <a href="mailto:ketkar.ashwin@gmail.com">ketkar.ashwin@gmail.com</a> • 
   💼 <a href="https://www.linkedin.com/in/ashwin-ketkar-8a8a382a0">LinkedIn</a> • 
   🐙 <a href="https://github.com/ashkett">GitHub</a> • 
-  📄 <a href="https://drive.google.com/file/d/15Byv4i9vGCfZNrKk_xVvRjclQjTk9QlF/view?usp=sharing">Resume</a> • 
+  📄 <a href="https://drive.google.com/file/d/1409SJoS2hLUxB1Nss_I5aSPhTzxrNMX6/view?usp=sharing">Resume</a> • 
   📊 <a href="https://www.kaggle.com/ashwinketkar0">Kaggle</a> • 
   🧠 <a href="https://leetcode.com/u/user2460YD/">LeetCode</a> • 
   🍽️ <a href="https://www.codechef.com/users/long_glow_42">CodeChef</a>
