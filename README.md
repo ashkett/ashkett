@@ -1,11 +1,21 @@
 <!-- GitHub Profile README for Ashwin Ketkar -->
 
+<!-- Banner -->
+<!-- Optional custom banner here -->
+<!--
+<p align="center">
+  <img src="your-banner-url-here" alt="Ashwin Ketkar Banner" width="100%"/>
+</p>
+-->
+
 <h1 align="center">Hi there, I'm Ashwin Ketkar 👋</h1>
 
+<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AIML+%7C+CV+%7C+NLP+Engineer;MERN+Stack+Developer;Researcher+%7C+Builder+%7C+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AIML+%7C+CV+%7C+NLP+Engineer;MERN+DEV;Researcher+%7C+Builder+%7C+Learner" alt="Typing SVG" />
 </p>
 
+<!-- Contact -->
 <p align="center">
   📧 <a href="mailto:ketkar.ashwin@gmail.com">ketkar.ashwin@gmail.com</a> • 
   💼 <a href="https://www.linkedin.com/in/ashwin-ketkar-8a8a382a0">LinkedIn</a> • 
@@ -39,18 +49,22 @@
 
 ## 💻 Tech Stack
 
+<!-- Languages -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css,mysql" />
 </p>
 
+<!-- ML / CV / NLP -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn" />
 </p>
 
+<!-- Web Dev -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git" />
 </p>
 
+<!-- Tools & Extras -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,figma,vscode" />
 </p>
@@ -109,10 +123,10 @@
 
 ---
 
-## 🔥 GitHub Activity Streak
+## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashkett&theme=tokyonight" />
+  <img src="https://leetcard.jacoblin.cool/user2460YD?ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
@@ -127,4 +141,4 @@
   <img src="https://komarev.com/ghpvc/?username=ashkett&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
-<p align="center">Crafted with ❤️ by Ashwin Ketkar</p>
+<p align="center">Crafted by Ashwin Ketkar</p>
