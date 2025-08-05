@@ -22,7 +22,7 @@
   🐙 <a href="https://github.com/ashkett">GitHub</a> • 
   📄 <a href="https://drive.google.com/drive/folders/1_LUX8iUIWgCwsXIL6uBnnVQPSqWB63I0?usp=sharing">Resume</a> • 
   📊 <a href="https://www.kaggle.com/ashwinketkar0">Kaggle</a> • 
-  🧠 <a href="https://leetcode.com/u/user2460YD/">LeetCode</a> • 
+  🧠 <a href="https://leetcode.com/u/Ashwin_1513/">LeetCode</a> • 
   🍽️ <a href="https://www.codechef.com/users/long_glow_42">CodeChef</a>
 </p>
 
@@ -126,7 +126,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/user2460YD?ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Ashwin_1513?ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
